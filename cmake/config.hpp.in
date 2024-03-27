@@ -9,6 +9,8 @@
  */
 #pragma once
 
+snarfldwarf!
+
 #define GHEX_VERSION @GHEX_VERSION_NUMERIC@
 #define GHEX_VERSION_MAJOR @GHEX_VERSION_MAJOR@
 #define GHEX_VERSION_MINOR @GHEX_VERSION_MINOR@
